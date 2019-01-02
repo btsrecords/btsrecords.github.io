@@ -1,0 +1,99 @@
+body {
+  margin: 0 auto;
+}
+
+#lifted {
+  max-width: 928px;
+  height: 20px;
+  margin: 0 auto;
+
+}
+
+
+#sides {
+  max-width: 928px;
+  
+  margin-bottom: 24px;
+}
+
+#left-side {
+  width: 39%;
+  float: left;
+  
+  font-size: 44px;
+  font-family: Helvetica;
+}
+
+#right-side {
+  width: 60%;
+  float: left;
+  font-size: 24px;
+  font-family: Garamond;
+}
+
+.record {
+  max-width: 928px;
+  
+  margin-bottom: 14px;
+  
+}
+
+.record:hover {
+  background-color: #ffc966;
+}
+
+.record img {
+  width: 100%;
+}
+
+.img-record {
+  max-width: 928px;
+  font-size: 24px;
+  font-family: Arial;
+  padding: 6px;
+  text-align: center;
+  margin-bottom: 14px;
+}
+
+.img-record:hover {
+  background-color: #ffc966;
+}
+
+.left-record-1 {
+  width: 40%;
+  float: left;
+
+  padding: 6px;
+}
+
+.right-record-1 {
+  width: 56%;
+  float: left;
+  font-size: 24px;
+  font-family: Arial;
+  padding: 6px;
+  text-align: right;
+}
+
+.left-record-2 {
+  width: 56%;
+  float: left;
+  
+  font-size: 24px;
+  font-family: Helvetica;
+  padding: 6px;
+  text-align: left;
+}
+
+.right-record-2 {
+  width: 40%;
+  float: right;
+  padding: 6px;
+  
+}
+
+
+
+.divide {
+  clear: both;
+}
