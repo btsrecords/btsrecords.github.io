@@ -92,7 +92,14 @@ body {
   
 }
 
+a {
+  color: grey;
+  text-decoration: none;
+}
 
+a:hover {
+  color:black;
+}
 
 .divide {
   clear: both;
